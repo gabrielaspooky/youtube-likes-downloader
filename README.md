@@ -25,7 +25,7 @@ YouTube does not notify anything when you like a video, so the script simply che
 ### 1. Get the code
 
 ```bash
-git clone https://github.com/<your-username>/youtube-likes-downloader.git
+git clone https://github.com/<gabrielaspooky>/youtube-likes-downloader.git
 cd youtube-likes-downloader
 ```
 
